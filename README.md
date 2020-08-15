@@ -1,3 +1,15 @@
+# Part of the UDACITY Cloud Developer program
+>## _This is a practise exercise_ !
+
+<br>
+
+***
+***
+# _Original documentation below_
+
+<br>
+
+
 # Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
